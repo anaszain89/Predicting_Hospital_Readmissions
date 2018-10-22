@@ -1,6 +1,5 @@
-# Predicting_Hospital_Readmissions
+# Predicting Hospital Readmissions from health records data
 Results/codes from healthcare data hackathon
-
 This repo contains some software that was used when participating in the following challenge. 
 
 Contains codes/ideas contribution from Sanchita Agarwal and Adora D'Souza
