@@ -12,7 +12,7 @@ Contains codes/ideas contribution from Sanchita Agarwal and Adora D'Souza
 Our team were declared the [winners for the competition](http://rochackhealth.com/healthcare-deep-data-dive-2016/winners2016/)
 
 ## Summary
-In this repo we try to re-analyze a full dataset as available from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008) Python with an attempt to improve the results we had obtained previously.
+In this repo we try to re-analyze a full dataset as available from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008) using Python in an attempt to improve the results we had obtained previously.
 
 The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. A total of 50 different 'features' are included.
 
